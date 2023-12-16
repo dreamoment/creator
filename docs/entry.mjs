@@ -1801,7 +1801,7 @@ var server_default = {
   renderToStaticMarkup
 };
 
-const $$Astro$x = createAstro("C:/code/dreamoment/creator-website/src/components/container.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$x = createAstro("C:/code/dreamoment/creator-website/src/components/container.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Container = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$x, $$props, $$slots);
   Astro2.self = $$Container;
@@ -1811,7 +1811,7 @@ const $$Container = createComponent(async ($$result, $$props, $$slots) => {
 </div>`;
 }, "C:/code/dreamoment/creator-website/src/components/container.astro");
 
-const $$Astro$w = createAstro("C:/code/dreamoment/creator-website/src/components/ui/link.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$w = createAstro("C:/code/dreamoment/creator-website/src/components/ui/link.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Link = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$w, $$props, $$slots);
   Astro2.self = $$Link;
@@ -1843,7 +1843,7 @@ const $$Link = createComponent(async ($$result, $$props, $$slots) => {
 </a>`;
 }, "C:/code/dreamoment/creator-website/src/components/ui/link.astro");
 
-const $$Astro$v = createAstro("C:/code/dreamoment/creator-website/src/components/cta.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$v = createAstro("C:/code/dreamoment/creator-website/src/components/cta.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Cta = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$v, $$props, $$slots);
   Astro2.self = $$Cta;
@@ -2075,7 +2075,7 @@ ${contents}`
   };
 }
 
-const $$Astro$u = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/Icon.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$u = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/Icon.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Icon = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$u, $$props, $$slots);
   Astro2.self = $$Icon;
@@ -2122,7 +2122,7 @@ async function getUsedSprites(request) {
   return [];
 }
 
-const $$Astro$t = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/Spritesheet.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$t = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/Spritesheet.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Spritesheet = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$t, $$props, $$slots);
   Astro2.self = $$Spritesheet;
@@ -2141,7 +2141,7 @@ ${e}`);
 </svg>`;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/Spritesheet.astro");
 
-const $$Astro$s = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/SpriteProvider.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$s = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/SpriteProvider.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$SpriteProvider = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$s, $$props, $$slots);
   Astro2.self = $$SpriteProvider;
@@ -2151,7 +2151,7 @@ ${renderComponent($$result, "Spritesheet", $$Spritesheet, {})}
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/SpriteProvider.astro");
 
-const $$Astro$r = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/Sprite.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$r = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-icon/lib/Sprite.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Sprite = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$r, $$props, $$slots);
   Astro2.self = $$Sprite;
@@ -2170,7 +2170,7 @@ const $$Sprite = createComponent(async ($$result, $$props, $$slots) => {
 
 Object.assign($$Sprite, { Provider: $$SpriteProvider });
 
-const $$Astro$q = createAstro("C:/code/dreamoment/creator-website/src/components/features.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$q = createAstro("C:/code/dreamoment/creator-website/src/components/features.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Features = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$q, $$props, $$slots);
   Astro2.self = $$Features;
@@ -2414,7 +2414,7 @@ async function getImage(transform) {
   }
   let loader = (_a = globalThis.astroImage) == null ? void 0 : _a.loader;
   if (!loader) {
-    const { default: mod } = await import('./chunks/squoosh.c08451c7.mjs').catch(() => {
+    const { default: mod } = await import('./chunks/squoosh.f1c36f32.mjs').catch(() => {
       throw new Error(
         "[@astrojs/image] Builtin image loader not found. (Did you remember to add the integration to your Astro config?)"
       );
@@ -2513,7 +2513,7 @@ async function getPicture(params) {
   };
 }
 
-const $$Astro$p = createAstro("C:/code/dreamoment/creator-website/node_modules/@astrojs/image/components/Image.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$p = createAstro("C:/code/dreamoment/creator-website/node_modules/@astrojs/image/components/Image.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Image = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$p, $$props, $$slots);
   Astro2.self = $$Image;
@@ -2525,7 +2525,7 @@ const $$Image = createComponent(async ($$result, $$props, $$slots) => {
   return renderTemplate`${maybeRenderHead($$result)}<img${spreadAttributes(attrs)}${addAttribute(loading, "loading")}${addAttribute(decoding, "decoding")}>`;
 }, "C:/code/dreamoment/creator-website/node_modules/@astrojs/image/components/Image.astro");
 
-const $$Astro$o = createAstro("C:/code/dreamoment/creator-website/node_modules/@astrojs/image/components/Picture.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$o = createAstro("C:/code/dreamoment/creator-website/node_modules/@astrojs/image/components/Picture.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Picture = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$o, $$props, $$slots);
   Astro2.self = $$Picture;
@@ -2580,7 +2580,7 @@ The "alt" attribute holds a text description of the image, which isn't mandatory
 
 const heroImage = {"src":"/creator/assets/hero.c8293ced.png","width":520,"height":424,"format":"png"};
 
-const $$Astro$n = createAstro("C:/code/dreamoment/creator-website/src/components/hero.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$n = createAstro("C:/code/dreamoment/creator-website/src/components/hero.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Hero = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$n, $$props, $$slots);
   Astro2.self = $$Hero;
@@ -2593,19 +2593,19 @@ const $$Hero = createComponent(async ($$result, $$props, $$slots) => {
       Marketing website done with Astro
     </h1>
     <p class="text-lg mt-4 text-slate-600 max-w-xl">
-      Astroship is a starter template for startups, marketing websites & landing
+      creator is a starter template for startups, marketing websites & landing
       pages.<wbr> Built with Astro.build, TailwindCSS & Alpine.js. You can quickly
       create any website with this starter.
     </p>
     <div class="mt-6 flex flex-col sm:flex-row gap-3">
       ${renderComponent($$result, "Link", $$Link, { "href": "#", "href": "https://web3templates.com/", "target": "_blank", "rel": "noopener" }, { "default": () => renderTemplate`Get Started` })}
-      ${renderComponent($$result, "Link", $$Link, { "size": "lg", "style": "outline", "rel": "noopener", "href": "https://github.com/surjithctly/astroship", "target": "_blank" }, { "default": () => renderTemplate`View Repo` })}
+      ${renderComponent($$result, "Link", $$Link, { "size": "lg", "style": "outline", "rel": "noopener", "href": "https://github.com/surjithctly/creator", "target": "_blank" }, { "default": () => renderTemplate`View Repo` })}
     </div>
   </div>
 </main>`;
 }, "C:/code/dreamoment/creator-website/src/components/hero.astro");
 
-const $$Astro$m = createAstro("C:/code/dreamoment/creator-website/src/components/logos.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$m = createAstro("C:/code/dreamoment/creator-website/src/components/logos.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Logos = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$m, $$props, $$slots);
   Astro2.self = $$Logos;
@@ -2622,7 +2622,7 @@ const $$Logos = createComponent(async ($$result, $$props, $$slots) => {
 </div>`;
 }, "C:/code/dreamoment/creator-website/src/components/logos.astro");
 
-const $$Astro$l = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphArticleTags.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$l = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphArticleTags.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$OpenGraphArticleTags = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$l, $$props, $$slots);
   Astro2.self = $$OpenGraphArticleTags;
@@ -2636,7 +2636,7 @@ ${tags ? tags.map((tag) => renderTemplate`<meta property="article:tag"${addAttri
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphArticleTags.astro");
 
-const $$Astro$k = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphBasicTags.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$k = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphBasicTags.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$OpenGraphBasicTags = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$k, $$props, $$slots);
   Astro2.self = $$OpenGraphBasicTags;
@@ -2648,7 +2648,7 @@ const $$OpenGraphBasicTags = createComponent(async ($$result, $$props, $$slots) 
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphBasicTags.astro");
 
-const $$Astro$j = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphImageTags.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$j = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphImageTags.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$OpenGraphImageTags = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$j, $$props, $$slots);
   Astro2.self = $$OpenGraphImageTags;
@@ -2663,7 +2663,7 @@ ${!(alt === null) ? renderTemplate`<meta property="og:image:alt"${addAttribute(a
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphImageTags.astro");
 
-const $$Astro$i = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphOptionalTags.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$i = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphOptionalTags.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$OpenGraphOptionalTags = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$i, $$props, $$slots);
   Astro2.self = $$OpenGraphOptionalTags;
@@ -2678,7 +2678,7 @@ ${optional.video ? renderTemplate`<meta property="og:video"${addAttribute(option
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/OpenGraphOptionalTags.astro");
 
-const $$Astro$h = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/ExtendedTags.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$h = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/ExtendedTags.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$ExtendedTags = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$h, $$props, $$slots);
   Astro2.self = $$ExtendedTags;
@@ -2688,7 +2688,7 @@ ${props.extend.meta?.map(({ content, httpEquiv, name, property }) => renderTempl
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/ExtendedTags.astro");
 
-const $$Astro$g = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/TwitterTags.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$g = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/TwitterTags.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$TwitterTags = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$g, $$props, $$slots);
   Astro2.self = $$TwitterTags;
@@ -2699,7 +2699,7 @@ ${creator ? renderTemplate`<meta name="twitter:creator"${addAttribute(creator, "
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-seo/src/components/TwitterTags.astro");
 
-const $$Astro$f = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/SEO.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$f = createAstro("C:/code/dreamoment/creator-website/node_modules/astro-seo/src/SEO.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$SEO = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$f, $$props, $$slots);
   Astro2.self = $$SEO;
@@ -2747,13 +2747,13 @@ ${props.extend && renderTemplate`${renderComponent($$result, "ExtendedTags", $$E
 `;
 }, "C:/code/dreamoment/creator-website/node_modules/astro-seo/src/SEO.astro");
 
-const $$Astro$e = createAstro("C:/code/dreamoment/creator-website/src/components/footer.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$e = createAstro("C:/code/dreamoment/creator-website/src/components/footer.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Footer = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$e, $$props, $$slots);
   Astro2.self = $$Footer;
   return renderTemplate`${maybeRenderHead($$result)}<footer class="my-20">
   <p class="text-center text-sm text-slate-500">
-    Copyright © ${new Date().getFullYear()} Astroship. All rights reserved.
+    Copyright © ${new Date().getFullYear()} creator. All rights reserved.
   </p>
   <!--
     Can we ask you a favor 🙏
@@ -2768,7 +2768,7 @@ const $$Footer = createComponent(async ($$result, $$props, $$slots) => {
 </footer>`;
 }, "C:/code/dreamoment/creator-website/src/components/footer.astro");
 
-const $$Astro$d = createAstro("C:/code/dreamoment/creator-website/src/components/navbar/dropdown.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$d = createAstro("C:/code/dreamoment/creator-website/src/components/navbar/dropdown.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Dropdown = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$d, $$props, $$slots);
   Astro2.self = $$Dropdown;
@@ -2793,7 +2793,7 @@ const $$Dropdown = createComponent(async ($$result, $$props, $$slots) => {
 </li>`;
 }, "C:/code/dreamoment/creator-website/src/components/navbar/dropdown.astro");
 
-const $$Astro$c = createAstro("C:/code/dreamoment/creator-website/src/components/navbar/navbar.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$c = createAstro("C:/code/dreamoment/creator-website/src/components/navbar/navbar.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Navbar = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$c, $$props, $$slots);
   Astro2.self = $$Navbar;
@@ -2860,7 +2860,7 @@ const $$Navbar = createComponent(async ($$result, $$props, $$slots) => {
   </header>` })}`;
 }, "C:/code/dreamoment/creator-website/src/components/navbar/navbar.astro");
 
-const $$Astro$b = createAstro("C:/code/dreamoment/creator-website/src/layouts/Layout.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$b = createAstro("C:/code/dreamoment/creator-website/src/layouts/Layout.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Layout = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$b, $$props, $$slots);
   Astro2.self = $$Layout;
@@ -2874,18 +2874,18 @@ const $$Layout = createComponent(async ($$result, $$props, $$slots) => {
     <meta name="generator"${addAttribute(Astro2.generator, "content")}>
 
     <!-- <link rel="preload" as="image" href={src} alt="Hero" /> -->
-    ${renderComponent($$result, "SEO", $$SEO, { "title": `${title}${title && " | "}Astroship`, "description": "Astroship is a starter website template for Astro built with TailwindCSS.", "twitter": {
+    ${renderComponent($$result, "SEO", $$SEO, { "title": `${title}${title && " | "}creator`, "description": "creator is a starter website template for Astro built with TailwindCSS.", "twitter": {
     creator: "@surjithctly",
     site: "@web3templates",
     card: "summary_large_image"
   }, "openGraph": {
     basic: {
       type: "website",
-      title: `Astroship - Starter Template for Astro`,
+      title: `creator - Starter Template for Astro`,
       image: resolvedImageWithDomain
     },
     image: {
-      alt: "Astroship Homepage Screenshot"
+      alt: "creator Homepage Screenshot"
     }
   } })}
   ${renderHead($$result)}</head>
@@ -2898,7 +2898,7 @@ const $$Layout = createComponent(async ($$result, $$props, $$slots) => {
 </html>`;
 }, "C:/code/dreamoment/creator-website/src/layouts/Layout.astro");
 
-const $$Astro$a = createAstro("C:/code/dreamoment/creator-website/src/pages/index.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$a = createAstro("C:/code/dreamoment/creator-website/src/pages/index.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$a, $$props, $$slots);
   Astro2.self = $$Index;
@@ -2915,7 +2915,7 @@ const _page0 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   url: $$url$5
 }, Symbol.toStringTag, { value: 'Module' }));
 
-const $$Astro$9 = createAstro("C:/code/dreamoment/creator-website/src/components/sectionhead.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$9 = createAstro("C:/code/dreamoment/creator-website/src/components/sectionhead.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Sectionhead = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$9, $$props, $$slots);
   Astro2.self = $$Sectionhead;
@@ -2930,7 +2930,7 @@ const $$Sectionhead = createComponent(async ($$result, $$props, $$slots) => {
 </div>`;
 }, "C:/code/dreamoment/creator-website/src/components/sectionhead.astro");
 
-const $$Astro$8 = createAstro("C:/code/dreamoment/creator-website/src/components/ui/button.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$8 = createAstro("C:/code/dreamoment/creator-website/src/components/ui/button.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Button = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$8, $$props, $$slots);
   Astro2.self = $$Button;
@@ -2963,20 +2963,20 @@ var __freeze = Object.freeze;
 var __defProp = Object.defineProperty;
 var __template = (cooked, raw) => __freeze(__defProp(cooked, "raw", { value: __freeze(raw || cooked.slice()) }));
 var _a;
-const $$Astro$7 = createAstro("C:/code/dreamoment/creator-website/src/components/contactform.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$7 = createAstro("C:/code/dreamoment/creator-website/src/components/contactform.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Contactform = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$7, $$props, $$slots);
   Astro2.self = $$Contactform;
   return renderTemplate(_a || (_a = __template(["<!-- To make this contact form work, create your free access key from https://web3forms.com/\n     Then you will get all form submissions in your email inbox. -->", '<form action="https://api.web3forms.com/submit" method="POST" id="form" class="needs-validation astro-O6INYXU5" novalidate>\n  <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" class="astro-O6INYXU5">\n  <!-- Create your free access key from https://web3forms.com/ -->\n  <input type="checkbox" class="hidden astro-O6INYXU5" style="display:none" name="botcheck">\n  <div class="mb-5 astro-O6INYXU5">\n    <input type="text" placeholder="Full Name" required class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100 astro-O6INYXU5" name="name">\n    <div class="empty-feedback invalid-feedback text-red-400 text-sm mt-1 astro-O6INYXU5">\n      Please provide your full name.\n    </div>\n  </div>\n  <div class="mb-5 astro-O6INYXU5">\n    <label for="email_address" class="sr-only astro-O6INYXU5">Email Address</label><input id="email_address" type="email" placeholder="Email Address" name="email" required class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100 astro-O6INYXU5">\n    <div class="empty-feedback text-red-400 text-sm mt-1 astro-O6INYXU5">\n      Please provide your email address.\n    </div>\n    <div class="invalid-feedback text-red-400 text-sm mt-1 astro-O6INYXU5">\n      Please provide a valid email address.\n    </div>\n  </div>\n  <div class="mb-3 astro-O6INYXU5">\n    <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-3 border-2 placeholder:text-gray-800 rounded-md outline-none h-36 focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100 astro-O6INYXU5"></textarea>\n    <div class="empty-feedback invalid-feedback text-red-400 text-sm mt-1 astro-O6INYXU5">\n      Please enter your message.\n    </div>\n  </div>\n  ', '\n  <div id="result" class="mt-3 text-center astro-O6INYXU5"></div>\n</form>\n\n\n\n<script>\n  const form = document.getElementById("form");\n  const result = document.getElementById("result");\n\n  form.addEventListener("submit", function (e) {\n    e.preventDefault();\n    form.classList.add("was-validated");\n    if (!form.checkValidity()) {\n      form.querySelectorAll(":invalid")[0].focus();\n      return;\n    }\n    const formData = new FormData(form);\n    const object = Object.fromEntries(formData);\n    const json = JSON.stringify(object);\n\n    result.innerHTML = "Sending...";\n\n    fetch("https://api.web3forms.com/submit", {\n      method: "POST",\n      headers: {\n        "Content-Type": "application/json",\n        Accept: "application/json",\n      },\n      body: json,\n    })\n      .then(async (response) => {\n        let json = await response.json();\n        if (response.status == 200) {\n          result.classList.add("text-green-500");\n          result.innerHTML = json.message;\n        } else {\n          console.log(response);\n          result.classList.add("text-red-500");\n          result.innerHTML = json.message;\n        }\n      })\n      .catch((error) => {\n        console.log(error);\n        result.innerHTML = "Something went wrong!";\n      })\n      .then(function () {\n        form.reset();\n        form.classList.remove("was-validated");\n        setTimeout(() => {\n          result.style.display = "none";\n        }, 5000);\n      });\n  });\n<\/script>'])), maybeRenderHead($$result), renderComponent($$result, "Button", $$Button, { "type": "submit", "size": "lg", "block": true, "class": "astro-O6INYXU5" }, { "default": () => renderTemplate`Send Message` }));
 }, "C:/code/dreamoment/creator-website/src/components/contactform.astro");
 
-const $$Astro$6 = createAstro("C:/code/dreamoment/creator-website/src/pages/contact.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$6 = createAstro("C:/code/dreamoment/creator-website/src/pages/contact.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Contact = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$6, $$props, $$slots);
   Astro2.self = $$Contact;
   return renderTemplate`${renderComponent($$result, "Layout", $$Layout, { "title": "Contact" }, { "default": () => renderTemplate`${renderComponent($$result, "Container", $$Container, {}, { "default": () => renderTemplate`${renderComponent($$result, "Sectionhead", $$Sectionhead, {}, { "desc": () => renderTemplate`${renderComponent($$result, "Fragment", Fragment, { "slot": "desc" }, { "default": () => renderTemplate`We are a here to help.` })}`, "title": () => renderTemplate`${renderComponent($$result, "Fragment", Fragment, { "slot": "title" }, { "default": () => renderTemplate`Contact` })}` })}${maybeRenderHead($$result)}<div class="grid md:grid-cols-2 gap-10 mx-auto max-w-4xl mt-16">
       <div>
-        <h2 class="font-medium text-2xl text-gray-800">Contact Astroship</h2>
+        <h2 class="font-medium text-2xl text-gray-800">Contact creator</h2>
         <p class="text-lg leading-relaxed text-slate-500 mt-3">
           Have something to say? We are here to help. Fill up the form or send
           email or call phone.
@@ -2986,7 +2986,7 @@ const $$Contact = createComponent(async ($$result, $$props, $$slots) => {
             ${renderComponent($$result, "Icon", $$Icon, { "class": "text-gray-400 w-4 h-4", "name": "uil:map-marker" })}
             <span>1734 Sanfransico, CA 93063</span>
           </div><div class="flex items-center mt-2 space-x-2 text-gray-600">
-            ${renderComponent($$result, "Icon", $$Icon, { "class": "text-gray-400 w-4 h-4", "name": "uil:envelope" })}<a href="mailto:hello@astroshipstarter.com">hello@astroshipstarter.com</a>
+            ${renderComponent($$result, "Icon", $$Icon, { "class": "text-gray-400 w-4 h-4", "name": "uil:envelope" })}<a href="mailto:hello@creatorstarter.com">hello@creatorstarter.com</a>
           </div><div class="flex items-center mt-2 space-x-2 text-gray-600">
             ${renderComponent($$result, "Icon", $$Icon, { "class": "text-gray-400 w-4 h-4", "name": "uil:phone" })}<a href="tel:+1 (987) 4587 899">+1 (987) 4587 899</a>
           </div>
@@ -3008,7 +3008,7 @@ const _page1 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   url: $$url$4
 }, Symbol.toStringTag, { value: 'Module' }));
 
-const $$Astro$5 = createAstro("C:/code/dreamoment/creator-website/src/components/ui/icons/tick.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$5 = createAstro("C:/code/dreamoment/creator-website/src/components/ui/icons/tick.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Tick = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$5, $$props, $$slots);
   Astro2.self = $$Tick;
@@ -3017,7 +3017,7 @@ const $$Tick = createComponent(async ($$result, $$props, $$slots) => {
 </svg>`;
 }, "C:/code/dreamoment/creator-website/src/components/ui/icons/tick.astro");
 
-const $$Astro$4 = createAstro("C:/code/dreamoment/creator-website/src/components/pricing.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$4 = createAstro("C:/code/dreamoment/creator-website/src/components/pricing.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Pricing$1 = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$4, $$props, $$slots);
   Astro2.self = $$Pricing$1;
@@ -3047,7 +3047,7 @@ const $$Pricing$1 = createComponent(async ($$result, $$props, $$slots) => {
 </div>`;
 }, "C:/code/dreamoment/creator-website/src/components/pricing.astro");
 
-const $$Astro$3 = createAstro("C:/code/dreamoment/creator-website/src/pages/pricing.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$3 = createAstro("C:/code/dreamoment/creator-website/src/pages/pricing.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Pricing = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$3, $$props, $$slots);
   Astro2.self = $$Pricing;
@@ -3124,7 +3124,7 @@ const _page2 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   url: $$url$3
 }, Symbol.toStringTag, { value: 'Module' }));
 
-const $$Astro$2 = createAstro("C:/code/dreamoment/creator-website/src/pages/about.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$2 = createAstro("C:/code/dreamoment/creator-website/src/pages/about.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$About = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$2, $$props, $$slots);
   Astro2.self = $$About;
@@ -3203,7 +3203,7 @@ const getFormattedDate = (date) =>
       })
     : "";
 
-const $$Astro$1 = createAstro("C:/code/dreamoment/creator-website/src/layouts/BlogLayout.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro$1 = createAstro("C:/code/dreamoment/creator-website/src/layouts/BlogLayout.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$BlogLayout = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$BlogLayout;
@@ -4428,7 +4428,7 @@ const _page7 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   Content
 }, Symbol.toStringTag, { value: 'Module' }));
 
-const $$Astro = createAstro("C:/code/dreamoment/creator-website/src/pages/blog.astro", "https://dreamoment.github.io/", "file:///C:/code/dreamoment/creator-website/");
+const $$Astro = createAstro("C:/code/dreamoment/creator-website/src/pages/blog.astro", "https://product.dreamoment.org/", "file:///C:/code/dreamoment/creator-website/");
 const $$Blog = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$Blog;
